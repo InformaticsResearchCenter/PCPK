@@ -1,0 +1,5 @@
+\contentsline {chapter}{\numberline {1}Kepo}{1}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Cara Menggunakan Kepo}{1}{section.1.1}% 
+\contentsline {subsection}{\numberline {1.1.1}Jika issues kurang dari 10}{8}{subsection.1.1.1}% 
+\contentsline {chapter}{\numberline {2}Commit}{9}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Cara Commit}{9}{section.2.1}% 
